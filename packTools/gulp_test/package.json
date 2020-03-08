@@ -1,0 +1,21 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "description": "gulp",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ttt"
+  },
+  "author": "",
+  "license": "ISC"
+}

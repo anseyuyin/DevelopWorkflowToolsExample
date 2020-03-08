@@ -11,10 +11,7 @@
     step1: 全局安装
         npm install -g gulp
     step2: 使用依赖模块安装
-        npm install --save-dev gulp
-        npm install --save-dev gulp-uglify
-        npm install --save-dev gulp-concat
-        npm install --save-dev gulp-rename
+        npm install
 
 #测试
     默认: gulp 
